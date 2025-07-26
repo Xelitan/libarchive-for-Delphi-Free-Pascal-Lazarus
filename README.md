@@ -1,6 +1,14 @@
 # libarchive-for-Delphi-Free-Pascal-Lazarus
 libarchive - pack/unpack archives in Delphi, Free Pascal, Lazarus
 
+## Supported archives - reading
+
+TAR, CPIO, SHAR, AR, ISO, XAR, LZH/LHA, RAR, 7ZIP, ZIP, GZIP, BZIP2, XZ
+
+## Supported archives - writing
+
+7ZIP, ZIP, TAR, TAR.GZ, TAR.BZ2, TAR.XZ
+
 ## Usage examples - packing
 ```
 var A: TPacker;
